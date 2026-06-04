@@ -25,5 +25,4 @@ of the previous step.
 3. **Feature engineering** — requires `application_train_clean.csv` from step 1.
 4. **Modelling** — requires `application_train_features.csv` and `feature_manifest.json` from step 3.
 
-All intermediate files are written to the project root, where the next
-notebook expects to find them.
+All intermediate files should be stored in the directory containing the corresponding notebook.
