@@ -16,7 +16,7 @@ of the previous step.
 | 1 | `cleaning_home_credit.ipynb` | `application_train.csv` | `application_train_clean.csv` |
 | 2 | `eda_home_credit.ipynb` | `application_train.csv` | figures (EDA) |
 | 3 | `feature_engineering_home_credit.ipynb` | `application_train_clean.csv` | `application_train_features.csv`, `feature_manifest.json` |
-| 4 | `modelling_home_credit.ipynb` | `application_train_features.csv`, `feature_manifest.json` | results, figures, fairness metrics |
+| 4 | `modelling_home_credit.ipynb` | `application_train_features.csv`, `feature_manifest.json` | results |
 
 ### Run order
 
