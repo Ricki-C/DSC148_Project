@@ -4,7 +4,7 @@
 
 Download `application_train.csv` from the Kaggle Home Credit Default Risk
 competition and place it in the project root:
-https://www.kaggle.com/competitions/home-credit-default-risk/data
+[https://www.kaggle.com/competitions/home-credit-default-risk/data](https://www.kaggle.com/code/shivamb/homecreditrisk-extensive-eda-baseline-0-772/input)
 
 ## Pipeline
 
